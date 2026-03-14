@@ -28,11 +28,3 @@ yfinance · pandas_ta · pytz
 ## Built by
 Varad Lifestyle Consulting
 Vancouver BC · April 2022
-
-Scroll down.
-Commit message:
-"CLDSA v0.1 README —
-all 7 cells confirmed —
-13-March-2026"
-
-Click: Commit changes. ✅
