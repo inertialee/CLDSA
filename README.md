@@ -9,7 +9,7 @@
 ## System Architecture
 Market agnostic · Timezone agnostic · Institutional grade
 
-## Each cell includes detailed documentation notes — see CLDSA_Mar_15_2026.ipynb"
+## Each cell includes detailed documentation notes — see CLDSA_Mar_15_2026.ipynb
 
 ## Confirmed Cells
 
