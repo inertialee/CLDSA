@@ -10,6 +10,7 @@
 Market agnostic · Timezone agnostic · Institutional grade
 
 ## Confirmed Cells
+## Each cell includes detailed documentation notes — see CLDSA_Mar_15_2026.ipynb"
 - Cell 0 — Libraries ✅
 - Cell 1 — Alpaca connection ✅
 - Cell 2 — Funds ✅
